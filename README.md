@@ -19,3 +19,6 @@ This is a GUI based game: Tic-Tac-Toe! It consists of 2 symbols- cross and knogh
 
 > [!CAUTION]
 > Check if the specified libraries are already installed or not.
+
+## Author
+Anvi Singh Parihar
